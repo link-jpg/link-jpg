@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @link-jpg
+- I am currently entering the world of object oriented programming
+- The first language in which I will be practiced will be java
+- The second language you are practicing in will be python
